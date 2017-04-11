@@ -1,2 +1,4 @@
 # guide
-The computer nonsense guide. ---click-on-Wiki----------->
+The computer nonsense guide. 
+
+Click on Wiki --------------------------------------------------->
