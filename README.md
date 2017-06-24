@@ -1,2 +1,2 @@
 # guide
-The computer nonsense guide, click on the Wiki tab over the top.
+The marian computer nonsense guide, click on the Wiki tab over the top.
