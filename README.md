@@ -1,4 +1,4 @@
 # guide
-The computer nonsense guide, click on the Wiki tab over the top.
+Hello friend, Welcome to The Computer Nonsense guide, [click here](https://github.com/nonsensews/guide/wiki) to continue.
 
 Please open a issue for all errors and comments.
