@@ -1,4 +1,4 @@
 # Computer Nonsense Guide
-Welcome to the [SHA/OS](https://shaos.ws) computer [nonsense](https://nonsense.ws) guide, [click here](https://github.com/nonsensews/guide/wiki) or select the Wiki tab to [continue](https://github.com/nonsensews/guide/wiki).
+Welcome to the [SHA/OS](https://shaos.ws) Computer [Nonsense](https://nonsense.ws) Guide. This automated system train information models provided for the convenience of our residents and visitors to the Nonsense Research Facility.
 
-Please open a [issue](https://github.com/nonsensews/guide/issues) for all errors and comments.
+Please feel free to explore and train or simply sit back and enjoy the ride, [click here](https://github.com/nonsensews/guide/wiki) or select the Wiki tab to [continue](https://github.com/nonsensews/guide/wiki).
