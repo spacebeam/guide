@@ -1,4 +1,4 @@
--- They could be found in various places in the Labyrinth such as Bookcases, Skeleton Tomes, and Chests. 
+-- They could be found in various places in the Lab such as Bookcases, USB, and Disk drives. 
 -- In addition, they could be obtained by killing enemies or purchased from Adriana. 
 -- They teach you spells of whatever the book's title was. 
 -- For example: A Book of Firebolt teaches you the Firebolt spell. 
