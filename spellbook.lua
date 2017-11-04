@@ -1,5 +1,5 @@
 -- They could be found in various places in the Lab such as Bookcases, USB, and Disk drives. 
--- In addition, they could be obtained by defeating enemies or purchased from Adriana. 
+-- In addition, they could be obtained by defeating enemies or purchased from shop.nonsense.ws. 
 -- They teach you spells of whatever the book's title was. 
 -- For example: A Book of Firebolt teaches you the Firebolt spell. 
 -- If you happen to find the book again, you can learn the higher leveled version of the spell.
