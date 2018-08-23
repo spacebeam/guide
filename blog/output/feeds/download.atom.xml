@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nonsense.ws - Download</title><link href="https://blog.nonsense.ws/" rel="alternate"></link><link href="https://blog.nonsense.ws/feeds/download.atom.xml" rel="self"></link><id>https://blog.nonsense.ws/</id><updated>2018-06-10T16:20:00+00:00</updated><entry><title>Download Live CD/USB</title><link href="https://blog.nonsense.ws/download-live-cdusb.html" rel="alternate"></link><published>2018-06-10T16:20:00+00:00</published><updated>2018-06-10T16:20:00+00:00</updated><author><name>Team Machine</name></author><id>tag:blog.nonsense.ws,2018-06-10:/download-live-cdusb.html</id><summary type="html">&lt;p&gt;Custom Debian i3 workspace environment with additional software focus on high-performance application containers and artificial intelligence.&lt;/p&gt;
+&lt;h2 id="stand-alone-complex"&gt;Stand Alone Complex&lt;/h2&gt;
+&lt;p&gt;Nonsense systems have been reported to run on Debian, Ubuntu and CentOS.&lt;/p&gt;
+&lt;p&gt;You can use LuaRocks to install the nonsense pkg on Linux.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;luarocks install pkg&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If the installation fails make …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Custom Debian i3 workspace environment with additional software focus on high-performance application containers and artificial intelligence.&lt;/p&gt;
+&lt;h2 id="stand-alone-complex"&gt;Stand Alone Complex&lt;/h2&gt;
+&lt;p&gt;Nonsense systems have been reported to run on Debian, Ubuntu and CentOS.&lt;/p&gt;
+&lt;p&gt;You can use LuaRocks to install the nonsense pkg on Linux.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;luarocks install pkg&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If the installation fails make sure that you have &lt;a href="http://singularity.lbl.gov"&gt;singularity&lt;/a&gt; installed.&lt;/p&gt;
+&lt;p&gt;For help using pkg, including a list of commands, run:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;$ pkg --help&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id="native"&gt;Native&lt;/h2&gt;
+&lt;p&gt;If you can use BitTorrent, please do so and leave the client open for a while so you can seed the files for other users. Otherwise, &lt;a href="https://shaos.ws/images/shaos-8.17-amd64.iso"&gt;download&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="live-cdusb"&gt;Live CD/USB&lt;/h2&gt;</content></entry></feed>

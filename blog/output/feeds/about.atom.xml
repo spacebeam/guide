@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nonsense.ws - About</title><link href="https://blog.nonsense.ws/" rel="alternate"></link><link href="https://blog.nonsense.ws/feeds/about.atom.xml" rel="self"></link><id>https://blog.nonsense.ws/</id><updated>2018-07-11T04:20:00+00:00</updated><entry><title>Distributed Artificial Intelligence</title><link href="https://blog.nonsense.ws/distributed-artificial-intelligence.html" rel="alternate"></link><published>2018-07-11T04:20:00+00:00</published><updated>2018-07-11T04:20:00+00:00</updated><author><name>Team Machine</name></author><id>tag:blog.nonsense.ws,2018-07-11:/distributed-artificial-intelligence.html</id><summary type="html">&lt;p&gt;We are all about open-source research in artificial intelligence, distributed systems and high-performance computing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Mission&lt;/strong&gt;: provide tools inside a simple unix-like workspace building information models through observation and action.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Goal&lt;/strong&gt;: a distributed AI toolkit and workspace environment for machines of all ages!&lt;/p&gt;
+&lt;p&gt;We make a stable workspace that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;We are all about open-source research in artificial intelligence, distributed systems and high-performance computing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Mission&lt;/strong&gt;: provide tools inside a simple unix-like workspace building information models through observation and action.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Goal&lt;/strong&gt;: a distributed AI toolkit and workspace environment for machines of all ages!&lt;/p&gt;
+&lt;p&gt;We make a stable workspace that anyone can use today, at nonsense these things work together into one unified environment with native support for Python 3, LuaLang and the BEAM ecosystem.&lt;/p&gt;
+&lt;h2 id="before-start"&gt;Before start&lt;/h2&gt;
+&lt;p&gt;Check your system have the latest Erlang, LuaJIT (with luarocks) and Singularity installed.&lt;/p&gt;
+&lt;h2 id="installation"&gt;Installation&lt;/h2&gt;
+&lt;p&gt;Then run this command:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;luarocks install pkg&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;For help using pkg, including a list of commands, run:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;$ pkg --help&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations, you are jacked up and good to go!&lt;/p&gt;
+&lt;h2 id="community"&gt;Community&lt;/h2&gt;
+&lt;p&gt;Team up with artists and scientists that spawn network resources where you discover new information models.&lt;/p&gt;
+&lt;p&gt;The laboratory conducts multidisciplinary research in distributed systems, artificial intelligence and high-performance computing.&lt;/p&gt;
+&lt;p&gt;To achieve our goal we focus on general-purpose strategies that networks learn from experience on different environments.&lt;/p&gt;
+&lt;p&gt;We combine machine learning research in a virtual space for public open-source resources, private services and business.&lt;/p&gt;
+&lt;h2 id="when-is-done"&gt;When is done&lt;/h2&gt;
+&lt;p&gt;We have no roadmaps, no feature requests, no regular meetings, no central planning committees.&lt;/p&gt;
+&lt;p&gt;We make a promise: don't break your working space.&lt;/p&gt;
+&lt;p&gt;You'll find all types of network services talking to each other inside multiple regions of the cloud multiverse.&lt;/p&gt;</content></entry></feed>

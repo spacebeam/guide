@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>nonsense.ws - Download</title><link>https://blog.nonsense.ws/</link><description></description><lastBuildDate>Sun, 10 Jun 2018 16:20:00 +0000</lastBuildDate><item><title>Download Live CD/USB</title><link>https://blog.nonsense.ws/download-live-cdusb.html</link><description>&lt;p&gt;Custom Debian i3 workspace environment with additional software focus on high-performance application containers and artificial intelligence.&lt;/p&gt;
+&lt;h2 id="stand-alone-complex"&gt;Stand Alone Complex&lt;/h2&gt;
+&lt;p&gt;Nonsense systems have been reported to run on Debian, Ubuntu and CentOS.&lt;/p&gt;
+&lt;p&gt;You can use LuaRocks to install the nonsense pkg on Linux.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;luarocks install pkg&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If the installation fails make …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Team Machine</dc:creator><pubDate>Sun, 10 Jun 2018 16:20:00 +0000</pubDate><guid isPermaLink="false">tag:blog.nonsense.ws,2018-06-10:/download-live-cdusb.html</guid></item></channel></rss>
