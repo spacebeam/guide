@@ -1,4 +1,4 @@
-# The Computer Nonsense Guide
+# Computer Nonsense Guide
 
 This automated system train information models provided for the convenience of our residents and visitors.
 
