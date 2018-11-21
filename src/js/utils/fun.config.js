@@ -44,7 +44,7 @@ fun.strings = {
   openSourceTechnology: "Open Source Technology",
   openResearchLaboratory: "Open Research Laboratory",
   privacyPolicy: "Privacy Policy",
-  cloudForestMonkeys: "The Home of Blueberry",
+  cloudForestMonkeys: "The Computer Nonsense Guide",
   problemDescribeHere: "Problem: (describe the problem here)",
   solutionDescribeHere: "Solution: (describe your solution here)",
   anIdealDescription: "An ideal description for an issue goes:",
