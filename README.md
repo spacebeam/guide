@@ -1,6 +1,6 @@
 # The Computer Nonsense Guide
 
-Feel free to explore the organization, [click here](https://github.com/spacebeam/guide/raw/master/guide.pdf) to download the guide on PDF or select the [Wiki](https://github.com/spacebeam/guide/wiki) to continue.
+Feel free to explore the organization, [click here](https://github.com/spacebeam/guide/raw/master/guide.pdf) to download this guide on PDF or select the [Wiki](https://github.com/spacebeam/guide/wiki) to continue.
 
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔░Ñß╠░░░░░░░░░░░░░░░░░░░░░░░»░░░░░░░░░░░░░░░░░░░░░
     ░░µ▄▄▄»░╔▄░░▄▄▄▄▄▄▄▄░░░ú░░░░░░░╔φm╫▒░╔▄░░▄░░▄╔░»▄▄»░░░░░µ░░▄▄▄▄▄▄▄▄▄▄▄▄░░▄░░▄H░░
