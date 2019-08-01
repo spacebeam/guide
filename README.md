@@ -53,3 +53,9 @@ Feel free to explore the organization, [click here](https://github.com/spacebeam
     »»»╨╚╙╨░╙╙░╨"!╙░╙╚░╩^^╨^░"h░░""░Ü"░░░^╚"╚╨░»»░░░»░»»░░»»░░»░»»░»»»»»»»»»»░░░░░»»
 
 This automated system train information models provided for the convenience of our community and visitors.
+
+## Help wanted
+Would you like to help with the project? Pick any of the issues tagged [help wanted](https://github.com/spacebeam/guide/labels/help%20wanted) and contribute!
+
+## Contributing
+See  [Contributing](CONTRIBUTING.md).
