@@ -6,7 +6,7 @@ This automated system train information models provided for the convenience of o
 ## Community
 Spacebeam is a multidisciplinary open-source research & development community that conducts work on distributed systems, artificial intelligence and high-performance computing.
 
-We aim at enable end-users easily build computational clusters, grid endpoints and visualization in tiled-displays.
+We aim at enable our users easily build computational clusters, grid endpoints and visualization in tiled-displays.
 
 [Explore](https://github.com/spacebeam) and remember; as the system grow in number, spawn more nodes to control it.
 
