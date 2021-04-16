@@ -1,4 +1,4 @@
-# The Computer Nonsense Guide
+## The Computer Nonsense Guide
 Feel free to explore the organization, [click here](https://github.com/spacebeam/guide/raw/master/guide.pdf) to download this guide on PDF or select the [Wiki](https://github.com/spacebeam/guide/wiki) to continue.
 
     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╔░Ñß╠░░░░░░░░░░░░░░░░░░░░░░░»░░░░░░░░░░░░░░░░░░░░░
@@ -53,12 +53,15 @@ Feel free to explore the organization, [click here](https://github.com/spacebeam
 
 This automated system train information models provided for the convenience of our community and visitors.
 
-## Community
+### Community
 Spacebeam is a multidisciplinary open-source research & development community that conducts work on distributed systems, artificial intelligence and high-performance computing.
 
-We aim at enable our users easily build computational clusters, grid endpoints and visualization in tiled-displays.
+Join the [conversation](https://discord.com/invite/SFpVE5Z), build a StarCraft:Brood War bot for [competition](https://torchup.org) or check our computer [guide](https://github.com/spacebeam/guide/wiki). 
 
-[Explore](https://github.com/spacebeam) and remember; as the system grow in number, spawn more nodes to control it.
+[Explore](https://spacebeam.org) and remember; as the system grow in number, you must spawn more nodes to control it.
 
-## Contributing
-See  [Contributing](CONTRIBUTING.md).
+### Contributing
+See [Contributing](CONTRIBUTING.md).
+
+
+
